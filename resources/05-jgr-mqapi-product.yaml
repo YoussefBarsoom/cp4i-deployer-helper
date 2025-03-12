@@ -76,7 +76,7 @@ apis:
     $ref: jgrmqapi_1.2.0.yaml
 visibility:
   view:
-    type: public
+    type: authenticated
     orgs: []
     tags: []
     enabled: true
