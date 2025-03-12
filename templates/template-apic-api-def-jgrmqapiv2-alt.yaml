@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: PIPLINETESTAPI
-  x-ibm-name: jgrmqapi
+  x-ibm-name: piplineapi
   version: 1.2.0
   description: PIPLINETESTAPI
 schemes:
