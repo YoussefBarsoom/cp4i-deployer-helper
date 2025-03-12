@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: JGRMQAPI
+  title: PIPLINETESTAPI
   x-ibm-name: jgrmqapi
   version: 1.2.0
   description: JGRMQAPI
