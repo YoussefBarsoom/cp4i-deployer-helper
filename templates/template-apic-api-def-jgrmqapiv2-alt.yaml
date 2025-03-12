@@ -3,7 +3,7 @@ info:
   title: PIPLINETESTAPI
   x-ibm-name: jgrmqapi
   version: 1.2.0
-  description: JGRMQAPI
+  description: PIPLINETESTAPI
 schemes:
   - https
 basePath: /jgrmqapi/v2
